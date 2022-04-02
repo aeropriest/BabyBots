@@ -1,0 +1,14 @@
+{
+  "name": "Mr Robot _68",
+  "NFT_DNA": "4-6-5-4-4-1",
+  "NFT_Variants": {
+    "Body": "Body_4_25",
+    "Eyes": "Eyes_6_15",
+    "FaceExpresion": "FaceExpresion_5_15",
+    "Fingers": "Fingers_4_25",
+    "Hands": "Hands_4_25",
+    "Light": "Light_1_15"
+  },
+  "image": "http://res.cloudinary.com/df2comv35/image/upload/v1648903267/BabyBots/mptdqleecdb97na3xmy0.png",
+  "file_url": "http://res.cloudinary.com/df2comv35/image/upload/v1648903267/BabyBots/mptdqleecdb97na3xmy0.png"
+}
